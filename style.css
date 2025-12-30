@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-image: url(https://mir-s3-cdn-cf.behance.net/project_modules/max_632_webp/b38f2d209998635.670952f348846.jpg);
+}
+
+
+.form-section {
+  width: 310px;
+  margin: 20px auto;
+  padding: 20px;
+  background: url(https://i.pinimg.com/736x/1b/f8/42/1bf842250997b693f6d262d75e6a9b53.jpg);
+  border-radius: 10px;
+  border: 1px solid #ccc;
+  text-align: center;
+}
+
+input {
+  width: 90%;
+  padding: 8px;
+  margin: 5px 0;
+  border-radius: 5px;
+  border: 1px solid #aaa;
+}
+
+button {
+  padding: 10px 20px;
+  border: none;
+  background: linear-gradient(aquamarine, black, white);
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: linear-gradient(white);
+  color: black;
+
+}
